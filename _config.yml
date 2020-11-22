@@ -21,7 +21,7 @@ disqus_shortname: #disqus shortname
 
 user:
   name: Jihye Lim
-  pic: /assets/img/cat.jpg
+  pic: https://user-images.githubusercontent.com/73014113/99904067-fdbf6080-2d0b-11eb-8b08-48f635d73651.png
   picAlt: "catbook"
   job: student
   aboutme: true # comment this out if you don't need the 'about' page.
