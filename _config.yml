@@ -20,10 +20,10 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
+  name: Jihye Lim
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: student
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
